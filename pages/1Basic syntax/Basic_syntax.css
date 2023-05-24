@@ -1,0 +1,19 @@
+/* element selector */
+p {
+    color: red;
+    margin: 10px;
+  }
+  
+  /* class selector */
+  .my-class {
+    font-size: 20px;
+    color: rgb(81, 255, 0);
+
+  }
+  
+  /* ID selector */
+  #my-id {
+    background-color: blue;
+    font-size: 20px;
+    color: rgb(224, 243, 119);
+  }

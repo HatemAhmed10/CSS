@@ -1,0 +1,32 @@
+1/Basic syntax: Learn how to write CSS rules and selectors, 
+and how to apply styles to HTML elements.
+
+2/Box model: Learn how the CSS box model works, 
+including how to set the size and position of elements, 
+and how to add padding, borders, and margins.
+
+3/Layout: Learn how to create layouts using CSS,
+ including how to position elements with absolute, 
+ relative, and fixed positioning, 
+ and how to create flexible and responsive layouts with CSS Grid and Flexbox.
+
+4/Typography: Learn how to style text with CSS, including how to set font properties,
+ text alignment, and line height.
+
+5/Colors and backgrounds: Learn how to set colors and background images with CSS, 
+and how to use gradients and patterns.
+
+6/Transitions and animations: Learn how to add animations and transitions to your web pages with CSS,
+ including how to use keyframes and timing functions.
+
+7/Media queries: Learn how to create responsive designs that adapt to different screen sizes and devices 
+with media queries.
+
+8/Preprocessors: Learn about CSS preprocessors such as Sass and Less, 
+which can help you write more efficient and maintainable CSS code.
+
+9/Frameworks: Learn about CSS frameworks such as Bootstrap and Foundation,
+ which provide pre-built CSS styles and components that can help you build web pages andapplications more quickly and easily.
+
+10/Best practices: Learn about best practices for writing CSS, including how to write modular and 
+reusable code, how to use naming conventions, and how to optimize CSS performance.

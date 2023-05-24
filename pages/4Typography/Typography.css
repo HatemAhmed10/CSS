@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background: rgb(143, 138, 138);
+  }
+  
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    background: rgb(165, 32, 32);
+
+  }
+  
+  p {
+    letter-spacing: 1px;
+    text-align: justify;
+    background: rgb(39, 221, 130);
+
+  }

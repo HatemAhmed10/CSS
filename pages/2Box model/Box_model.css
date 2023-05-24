@@ -1,0 +1,9 @@
+.my_element {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 1px solid rgb(211, 29, 29);
+    margin: 30px;
+    background-color: blue;
+    color: aqua;
+  }

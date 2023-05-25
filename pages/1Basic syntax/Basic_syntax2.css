@@ -1,0 +1,161 @@
+body {
+
+    /* CSS Backgrounds */
+    background-color: lightblue;
+    /* opacity: 0.8; */
+
+    /* CSS Background Image */
+    /* background-image: url("../assets/images/car2.png");
+    background-position: right top;
+    background-repeat: no-repeat; */
+
+
+    /* Background Image Repeat */
+    /* background-image: url("../assets/images/car2.png");
+    background-repeat: repeat-x; */
+
+      /* background-attachment */
+
+      /* background-image: url("../assets/images/car2.png");
+      background-repeat: no-repeat;
+      background-position: right top;
+      background-attachment: scroll; */
+  }
+  
+
+.div1{
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    /* border */
+    border-style: solid;
+    border-width: 5px;
+    border-width: 5px 20px; 
+    border-color: blue;
+    /* border-color: red green blue yellow; */
+    border-radius: 50px;
+
+    /* margin */
+    /* margin: 25px 50px 75px 100px; */
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px; */
+    margin: auto;
+    /* padding */
+    /* padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding: 25px 50px 75px 100px; */
+    padding:auto;
+
+}
+
+#Text1{
+    /* color */
+    background-color: black;
+    color: white;
+    /* align */
+    text-align: center;
+    /* text-align: justify; */
+
+    direction: ltr;
+    unicode-bidi: bidi-override;
+
+    text-decoration-line: overline;
+
+
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 20px;
+
+
+
+
+}
+
+
+/* link */
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+  /* a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  } */
+img{
+    width: 300px;
+    height: 300px;
+}
+
+
+.div2{
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    /* border */
+    border-style: solid;
+    border-width: 5px;
+    border-width: 5px 20px; 
+    border-color: blue;
+    /* border-color: red green blue yellow; */
+    border-radius: 50px;
+
+    /* margin */
+    /* margin: 25px 50px 75px 100px; */
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px; */
+    margin: auto;
+    /* padding */
+    /* padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding: 25px 50px 75px 100px; */
+    padding:auto;
+
+}
+
+ul.a {
+    color: aqua;
+    list-style-type: circle;
+  }
+  
+ 
+ul.b {
+    list-style-type: square;
+  }
+  
+ 
+ul.c {
+    list-style-type: square;
+}
+  
